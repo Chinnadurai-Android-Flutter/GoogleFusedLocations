@@ -8,4 +8,4 @@
 
 #### Google Fused Location API Sample Image
 
-![image](https://github.com/vasnc9585/GoogleFusedLocations/blob/master/images/Screenshot_20190827-154656_Map%20checking.jpg)
+![image](https://github.com/Chinnadurai-Android-Flutter/GoogleFusedLocations/blob/master/images/Screenshot_20190827-154656_Map%20checking.jpg)
