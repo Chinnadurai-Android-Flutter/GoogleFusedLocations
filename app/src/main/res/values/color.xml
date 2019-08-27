@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- xxxxxxxx 18-07-2015  xxxxxxxxxxx -->
+    <!-- <color name="app_color">#00849c</color> -->
+    <color name="app_color">#FFA500</color>
+    <color name="app_white">#FFFFFF</color>
+    <color name="green_msg">#d6fdb5</color>
+    <color name="green_msg_dark">#d9ffa5</color>
+    <color name="app_gray">#B8B7B7</color>
+    <color name="slowlight_gray">#e9e9e9</color>
+    <color name="slowbrowngray">#dfd8d2</color>
+    <color name="light_gray">#ADB2AF</color>
+    <color name="trackfarms_empty">#efb47f</color>
+    <!-- xxxxxxxx 05-04-2016  xxxxxxxxxxx -->
+    <color name="light_appcolor">#38aebf</color>
+    <!-- #9b87ac - violet -->
+     <!-- xxxxxxxx 18-07-2017  xxxxxxxxxxx -->
+    <color name="app_color_new">#FFA500</color>  
+    <color name="app_trans_black">#50000000</color> 
+     <color name="app_black">#000000</color> 
+</resources>

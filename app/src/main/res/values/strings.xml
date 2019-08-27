@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Map checking</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <color name="snow">#eee9e9</color>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
