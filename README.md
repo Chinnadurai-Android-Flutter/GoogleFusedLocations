@@ -2,7 +2,8 @@
 
 #More details
 
-Based on "https://developers.google.com/location-context/fused-location-provider/"
+#### Google Fused Location API
+* [GoogleFusedLocationAPI](https://developers.google.com/location-context/fused-location-provider)
 
 #Sample Image:
 
